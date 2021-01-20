@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "gatsby-starter-netlify-cms",
+  "description": null,
+  "icons": {
+    "60": "/icons-5f54794e19d045df4ec496ad469c3e16/firefox_app_60x60.png",
+    "128": "/icons-5f54794e19d045df4ec496ad469c3e16/firefox_app_128x128.png",
+    "512": "/icons-5f54794e19d045df4ec496ad469c3e16/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
